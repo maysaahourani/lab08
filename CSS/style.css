@@ -1,0 +1,83 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;700&display=swap');
+* {
+  box-sizing: border-box;
+  }
+  * body {
+    width: 1000px;
+    margin: auto;
+    line-height: 1.5;
+   font-family: 'Source Sans Pro', sans-serif;
+     }
+header {
+    padding: 10px 10px;
+    height: 90px;
+    width: 1000px;
+    line-height: 70px;
+    background:gray;
+
+  }
+
+  header nav img {
+      float: left;
+      margin-left: 70px;      
+  }
+
+  header nav navItem1 {
+    float: inherit;
+      color:snow;
+      text-transform: capitalize;
+      width: 200;
+      margin: 30px;
+      padding: 10px;          
+  }
+ 
+  main img {      
+           margin: 25px;
+  }
+
+ main  section img{
+        overflow: auto;
+        float: left;
+        margin: 5px;
+        padding: 5px;
+              }
+main section{
+    margin-left: 4px;
+    width:clac(100% /3);
+}
+main article{
+    overflow: auto;
+    float: left;
+    width: Calc(100% /2);
+}
+
+main section p{
+    height: 360px;
+    width: 400px;
+    overflow:scroll;
+    text-align: center;
+    
+}
+
+div {
+  width: 400px;
+  height: 20px;
+  float:left;
+}
+div button{
+  background-color: black;
+  float: left;
+  color: aliceblue;
+  }
+ 
+
+footer {
+  clear: both;
+  padding: 20px;
+  text-align: center;
+  background: #222;
+  color: #fff;
+  text-transform: capitalize;
+  padding:30px;
+}

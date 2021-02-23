@@ -2,8 +2,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;700&display=swap');
 * {
   box-sizing: border-box;
-  overflow: auto;
-  }
+  overflow:auto;
+   }
   * body {
     width: 1000px;
     margin: auto;
@@ -73,7 +73,7 @@ div button{
   }
  
 
-footer {
+footer div {
   clear: both;
   width: auto;
   height: 120px;

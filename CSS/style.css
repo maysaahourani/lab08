@@ -18,7 +18,11 @@ header {
     background:gray;
 
   }
-
+footer article{
+  background-color: gray;
+  width: auto;
+  height: 100px;
+}
   header nav img {
       float: left;
       margin-left: 70px;      

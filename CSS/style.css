@@ -1,4 +1,3 @@
-
 @import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;700&display=swap');
 * {
   box-sizing: border-box;
@@ -65,7 +64,6 @@ main section p{
 div {
   width: 400px;
   height: 20px;
-  float:left;
 }
 div button{
   background-color: black;

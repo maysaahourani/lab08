@@ -62,7 +62,7 @@ main section p{
 }
 
 div {
-  width: 400px;
+  width: 1000px;
   height: 20px;
 }
 div button{
@@ -70,11 +70,9 @@ div button{
   float: left;
   color: aliceblue;
   }
- 
 
-footer div {
-  clear: both;
-  width: auto;
+* footer div {
+  width: 1000px;
   height: 120px;
   padding: 20px;
   background:gray;
